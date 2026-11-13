@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Data analysis and Algothrim
+- 🤔 I’m looking for help with how to learn Quant
+- 📫 How to reach me: newsworld0914@gmail.com 
 <!--
 **Newsworld-niu/Newsworld-niu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
